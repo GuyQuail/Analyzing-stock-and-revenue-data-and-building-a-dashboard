@@ -1,1 +1,2 @@
-# Analyzing-stock-and-revenue-data-and-building-a-dashboard
+Final assignment Python project for Data Science
+Repository for final assignment
